@@ -14,11 +14,12 @@ Name | Language/Stack | Comments | Notable deployments
 [NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan | [Wizardchan](https://wizchan.org/), [MLPol](https://mlpol.net/)
 [Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on top of the Laravel framework |
 [TinyIB](https://gitlab.com/tslocum/tinyib) | PHP + MySQL |  | 
-[Meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features | [Meguca](https://meguca.org/all/)
+[Meguca](https://github.com/bakape/meguca) | Go + NodeJS + PgSQL | Real-time features | [Meguca](https://meguca.org/all/)
 
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[Cutechan](https://github.com/cutechan/cutechan) | Go + NodeJS + PgSQL | Fork of Meguca | 
 [FoolFooka](https://github.com/FoolCode/FoolFuuka) | PHP + MySQL | imageboard with front-end interface for Asagi |
 [Lapis-chan](https://github.com/karai17/lapis-chan/) | Lua + Docker | imageboard written in Lua by the Lapis web framework |
 [Weabot](https://github.com/z411/weabot) | Python + MySQL | Fork of PyIB | [BaI](https://bienvenidoainternet.org/world/)
