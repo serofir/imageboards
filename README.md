@@ -13,7 +13,7 @@ Name | Language/Stack | Comments | Notable deployments
 [Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
 [Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on top of the Laravel framework |
 [TinyIB](https://gitlab.com/tslocum/tinyib) | PHP + MySQL |  | 
-[Meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
+[Meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features | [Meguca](https://meguca.org/all/)
 
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
