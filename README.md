@@ -18,7 +18,8 @@ Name | Language/Stack | Comments | Notable deployments
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | board engine only (JSON-based server-client architecture) |
+[Weabot](https://github.com/z411/weabot) | Python + MySQL |  Fork of PyIB | [BaI](https://bienvenidoainternet.org/world/)
+[4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | Board engine only (JSON-based server-client architecture) |
 [Doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
 [Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
 [Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API |  
