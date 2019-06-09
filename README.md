@@ -1,4 +1,4 @@
-# List of bbs scripts
+# List of BBS scripts
 Overview of popular imageboard software
 
 * [Popular](#popular)
@@ -35,8 +35,9 @@ Name | Language/Stack | Comments | Notable deployments
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
 [Futaba](http://jun.2chan.net/script/) | PHP + MySQL | The godfather of imageboard scripts, used on 2chan |
 [Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
-[Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
+[Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Textboard-only version of Wakaba |
+[Kareha psgi](https://github.com/marlencrabapple/kareha-psgi) | Perl + RDBMS | psgi version of Wakaba |
 
 ## Last forks of old board engines
 Name | Language/Stack | Comments | Notable deployments
