@@ -47,6 +47,6 @@ name | language/stack | comments | notable deployments
 [Taimaba](https://taimapedia.org/index.php?title=Taimaba) | Perl + MySQL | Fork of Wakaba | [420chan](http://420chan.org)
 
 
-### Other ressources
+### Other resources
 * http://www.9ch.in/overscript/
 * http://9ch.in/over/index2.pl
