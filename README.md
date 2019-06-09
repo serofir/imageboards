@@ -11,7 +11,7 @@ Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | All functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
 [Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Brchan](http://www.brchan.org/)
-[NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan | [Wizardchan](https://wizchan.org/)
+[NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan | [Wizardchan](https://wizchan.org/) [MLPol](https://mlpol.net/)
 [Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on top of the Laravel framework |
 [TinyIB](https://gitlab.com/tslocum/tinyib) | PHP + MySQL |  | 
 [Meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features | [Meguca](https://meguca.org/all/)
