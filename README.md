@@ -19,6 +19,7 @@ Name | Language/Stack | Comments | Notable deployments
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[FoolFooka](https://github.com/FoolCode/FoolFuuka) | PHP + MySQL | imageboard with front-end interface for Asagi |
 [Lapis-chan](https://github.com/karai17/lapis-chan/) | Lua + Docker | imageboard written in Lua by the Lapis web framework |
 [Weabot](https://github.com/z411/weabot) | Python + MySQL | Fork of PyIB | [BaI](https://bienvenidoainternet.org/world/)
 [Wakarimasen](https://github.com/weedy/wakarimasen) | Python + SQLAlchemy | Python imageboard | [Desuchan](https://desuchan.net/)
@@ -46,8 +47,8 @@ Name | Language/Stack | Comments | Notable deployments
 ## Last forks of old board engines
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[Kareha mod*](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji](https://kiramoji.ga/)
-[Wakaba mod*](https://github.com/emmausrs/Wakaba) | Perl + MySQL | fork of Wakaba by Emma |
+[Kareha*](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji](https://kiramoji.ga/)
+[Wakaba*](https://github.com/emmausrs/Wakaba) | Perl + MySQL | fork of Wakaba by Emma |
 [Tinyboard*](https://github.com/Circlepuller/Tinyboard) | PHP + MySQL | fork of Tinyboard by Circlepuller |
 [Futallaby*](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | fork of Futallaby by Nelliel |
 
