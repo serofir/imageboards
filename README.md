@@ -43,6 +43,7 @@ Name | Language/Stack | Comments | Notable deployments
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [Kareha mod](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji] (https://kiramoji.ga/)
+[Wakaba mod](https://github.com/emmausrs/Wakaba) | Perl + MySQL | fork of wakaba by Emma | 
 
 
 ## Closed source
