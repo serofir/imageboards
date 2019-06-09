@@ -11,7 +11,7 @@ Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | All functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
 [Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Brchan](http://www.brchan.org/)
-[NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan | [Wizardchan](https://wizchan.org/) [MLPol](https://mlpol.net/)
+[NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan | [Wizardchan](https://wizchan.org/), [MLPol](https://mlpol.net/)
 [Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on top of the Laravel framework |
 [TinyIB](https://gitlab.com/tslocum/tinyib) | PHP + MySQL |  | 
 [Meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features | [Meguca](https://meguca.org/all/)
@@ -21,6 +21,7 @@ Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [Lapis-chan](https://github.com/karai17/lapis-chan/) | Lua + Docker | imageboard written in Lua by the Lapis web framework |
 [Weabot](https://github.com/z411/weabot) | Python + MySQL | Fork of PyIB | [BaI](https://bienvenidoainternet.org/world/)
+[Wakarimasen](https://github.com/weedy/wakarimasen) | Python + MySQL | Python imageboard | [Desuchan](https://desuchan.net/)
 [4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | Board engine only (JSON-based server-client architecture) |
 [Doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis | Real-time features | [Moe](http://doushio.com/moe/)
 [Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | Futaba-styled board on Ruby |  
