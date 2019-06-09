@@ -7,38 +7,40 @@ Overview of popular imageboard software
 * [Closed source](#closed-source)
 
 ## Popular
-name | language/stack | comments | notable deployments
+Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | all functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
-[vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
-[infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on top of the Laravel framework |
-[Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
-[Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
+[LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | All functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
+[Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
+[Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on top of the Laravel framework |
 [TinyIB](https://gitlab.com/tslocum/tinyib) | PHP + MySQL |  | 
-[Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
-
+[Meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
 
 ## Various other
-name | language/stack | comments | notable deployments
+Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | board engine only (JSON-based server-client architecture) |
-[doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
-[mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
-[maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API |  
-[meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
+[Doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
+[Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
+[Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API |  
 [µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
+[Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
 ## Legacy, inactive or abandoned
-name | language/stack | comments | notable deployments
+Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
+[Infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
 [Futaba](http://jun.2chan.net/script/) | PHP + MySQL | The godfather of imageboard scripts, used on 2chan |
 [Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
+[Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
+[Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Textboard-only version of Wakaba |
 
+## Last forks of old board engines
+Name | Language/Stack | Comments | Notable deployments
+-----| -------------- | ------ | --------
 
 
 ## Closed source
