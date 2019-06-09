@@ -1,4 +1,4 @@
-# Imageboards
+# List of bbs scripts
 Overview of popular imageboard software
 
 * [Popular](#popular)
