@@ -27,7 +27,7 @@ Name | Language/Stack | Comments | Notable deployments
 [4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | Board engine only (JSON-based server-client architecture) |
 [Doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis | Real-time features | [Moe](http://doushio.com/moe/)
 [Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | Futaba-styled board on Ruby |  
-[Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API | [Futatsu](https://futatsu.org/)
+[Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python + Docker | REST-API | [Futatsu](https://futatsu.org/)
 [µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
