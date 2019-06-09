@@ -24,7 +24,6 @@ Name | Language/Stack | Comments | Notable deployments
 [Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | Futaba-styled board on Ruby |  
 [Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API | [Futatsu](https://futatsu.org/)
 [µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
-[Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
 ## Legacy, inactive or abandoned
@@ -44,7 +43,8 @@ Name | Language/Stack | Comments | Notable deployments
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [Kareha mod](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji] (https://kiramoji.ga/)
-[Wakaba mod](https://github.com/emmausrs/Wakaba) | Perl + MySQL | fork of wakaba by Emma | 
+[Wakaba mod](https://github.com/emmausrs/Wakaba) | Perl + MySQL | fork of wakaba by Emma |
+[Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
 
 
 ## Closed source
