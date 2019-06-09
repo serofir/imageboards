@@ -37,11 +37,12 @@ Name | Language/Stack | Comments | Notable deployments
 [Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Textboard-only version of Wakaba |
-[Kareha psgi](https://github.com/marlencrabapple/kareha-psgi) | Perl + RDBMS | psgi version of Wakaba |
+[Kareha-psgi](https://github.com/marlencrabapple/kareha-psgi) | Perl + RDBMS | psgi version of Kareha |
 
 ## Last forks of old board engines
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[Kareha mod](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji] (https://kiramoji.ga/)
 
 
 ## Closed source
