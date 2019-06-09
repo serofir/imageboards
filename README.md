@@ -33,7 +33,7 @@ Name | Language/Stack | Comments | Notable deployments
 [Infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
-[Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
+[Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | [Merorin](https://merorin.com/jp/) 
 [Futaba](http://jun.2chan.net/script/) | PHP + MySQL | The godfather of imageboard scripts, used on 2chan |
 [Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Inspired by Futaba and Futallaby |
