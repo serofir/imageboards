@@ -21,7 +21,7 @@ Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [Lapis-chan](https://github.com/karai17/lapis-chan/) | Lua + Docker | imageboard written in Lua by the Lapis web framework |
 [Weabot](https://github.com/z411/weabot) | Python + MySQL | Fork of PyIB | [BaI](https://bienvenidoainternet.org/world/)
-[Wakarimasen](https://github.com/weedy/wakarimasen) | Python + MySQL | Python imageboard | [Desuchan](https://desuchan.net/)
+[Wakarimasen](https://github.com/weedy/wakarimasen) | Python + SQLAlchemy | Python imageboard | [Desuchan](https://desuchan.net/)
 [4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | Board engine only (JSON-based server-client architecture) |
 [Doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis | Real-time features | [Moe](http://doushio.com/moe/)
 [Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | Futaba-styled board on Ruby |  
@@ -60,3 +60,4 @@ name | language/stack | comments | notable deployments
 ### Other resources
 * http://www.9ch.in/overscript/
 * http://9ch.in/over/index2.pl
+* https://flash.moe/overscript/
