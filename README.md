@@ -38,11 +38,12 @@ Name | Language/Stack | Comments | Notable deployments
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | Textboard-only version of Wakaba |
 [Kareha-psgi](https://github.com/marlencrabapple/kareha-psgi) | Perl + RDBMS | psgi version of Kareha |
+[PyIB](https://github.com/tslocum/PyIB) | Python + MySQL | Python imageboard | |
 
 ## Last forks of old board engines
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[Kareha mod](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji] (https://kiramoji.ga/)
+[Kareha mod](https://github.com/Flameborn/Kareha) | Perl + RDBMS | fork of Kareha-psgi by Flameborn | [Kiramoji](https://kiramoji.ga/)
 [Wakaba mod](https://github.com/emmausrs/Wakaba) | Perl + MySQL | fork of wakaba by Emma |
 [Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
 
