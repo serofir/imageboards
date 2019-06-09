@@ -1,5 +1,5 @@
-# imageboards
-:ramen: an overview of popular imageboard software
+# Imageboards
+Overview of popular imageboard software
 
 * [Popular](#popular)
 * [Various other](#various-other)
