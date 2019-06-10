@@ -9,7 +9,7 @@ Overview of popular imageboard software
 ## Popular
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | All functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
+[LynxChan](https://gitgud.io/LynxChan/LynxChan) | NodeJS + MongoDB | All functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
 [Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Brchan](http://www.brchan.org/)
 [NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan | [Wizardchan](https://wizchan.org/), [MLPol](https://mlpol.net/)
 [Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on the Laravel |
@@ -19,6 +19,7 @@ Name | Language/Stack | Comments | Notable deployments
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[Livechan-js](https://github.com/emgram769/livechan-js) | NodeJS + MongoDB | live IRC like image board written in node.js | [Kotchan](https://kotchan.org/chat/int)
 [Minichan](https://github.com/Minichan/Minichan) | PHP + MySQL | Modern textboard | [Minichan](http://minichan.org/)
 [Iyagi-bbs](https://github.com/153/iyagi-bbs) | Python + RDMBS | Simple textboard |
 [4taba](https://github.com/4taba/4taba) | Python + PgSQL | Python imageboard |
