@@ -30,12 +30,13 @@ Name | Language/Stack | Comments | Notable deployments
 [Doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis | Real-time features | [Moe](http://doushio.com/moe/)
 [Mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | Futaba-styled board on Ruby |  
 [Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python + Docker | REST-API | [Futatsu](https://futatsu.org/)
-[µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
+[µchan](https://github.com/Floens/uchan) | Python + PgSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
 ## Legacy, inactive or abandoned
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[MiniBBS](https://github.com/whiteplastic/MiniBBS) | PHP + MySQL | simple textboard |
 [Infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 | [Operatorchan](https://operatorchan.org/)
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
