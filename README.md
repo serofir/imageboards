@@ -52,8 +52,9 @@ Name | Language/Stack | Comments | Notable deployments
 ## Development in foreign languages
 Name | Language/Stack | Country |  Comments | Notable deployments
 -----| -------------- | - | ------ | --------
-[Ponyach](https://github.com/acilsd/ponyach.ru) | PHP + MySQL | 🇷🇺 | kusaba styled imageboard | [Ponyach](https://ponyach.ru/b/)
+[Ponyach](https://github.com/acilsd/ponyach.ru) | PHP + MySQL | 🇷🇺 | Kusaba styled imageboard | [Ponyach](https://ponyach.ru/b/)
 [Fukuro](https://github.com/twiforce/fukuro) | PHP + MySQL | 🇷🇺 | fork of Tinyboard | [Syn-Ch](https://syn-ch.com/b/)
+[Kurisaba](https://github.com/makise-homura/kurisaba) | PHP + MySQL | 🇷🇺 | fork of Kusaba | [Kurisach](https://kurisa.ch/)
 [Kropyva](https://gitlab.com/Kropyva/engine) | Python + MySQL | 🇺🇦 | vichan styled python imageboard | [Kropyvach](https://www.kropyva.ch/)
 
 
