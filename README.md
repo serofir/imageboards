@@ -61,7 +61,8 @@ Name | Language/Stack | Country |  Comments | Notable deployments
 [Tumbach](https://github.com/rngnrs/tumbach) | NodeJS + Redis | 🇷🇺 | fork of ololord.js | [Tumbach](https://github.com/rngnrs/tumbach)
 [Erlach](https://github.com/m-2k/erlach) | Erlang + Websocket | 🇷🇺 | SPA Imageboad on WebSockets written on Erlang | [Erlach](https://erlach.co/)
 [Newneboard](https://bitbucket.org/neko259/newneboard/src/default/) | Python + Django | 🇷🇺 | python imageboard | [Neboard](https://neboard.me/)
-[Kropyva](https://gitlab.com/Kropyva/engine) | Python + MySQL | 🇺🇦 | vichan styled python imageboard | [Kropyvach](https://www.kropyva.ch/)
+[Monaba](https://gitlab.com/ahushh/Monaba) | Haskell + Yesod | 🇷🇺 | Haskell imageboard | [Haibane](https://haibane.ru/b/)
+[Kropyva](https://gitlab.com/Kropyva/engine) | Python + MySQL | 🇺🇦 | Vichan styled python imageboard | [Kropyvach](https://www.kropyva.ch/)
 
 
 ## Last forks of old board engines
