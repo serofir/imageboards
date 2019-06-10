@@ -60,6 +60,7 @@ Name | Language/Stack | Country |  Comments | Notable deployments
 [Ololord.js](https://github.com/ololoepepe/ololord.js) | NodeJS + Redis | 🇷🇺 | Javascript imageboard | [Allchan](https://allchan.su/)
 [Tumbach](https://github.com/rngnrs/tumbach) | NodeJS + Redis | 🇷🇺 | fork of ololord.js | [Tumbach](https://github.com/rngnrs/tumbach)
 [Erlach](https://github.com/m-2k/erlach) | Erlang + Websocket | 🇷🇺 | SPA Imageboad on WebSockets written on Erlang | [Erlach](https://erlach.co/)
+[Newneboard](https://bitbucket.org/neko259/newneboard/src/default/) | Python + Django | 🇷🇺 | python imageboard | [Neboard](https://neboard.me/)
 [Kropyva](https://gitlab.com/Kropyva/engine) | Python + MySQL | 🇺🇦 | vichan styled python imageboard | [Kropyvach](https://www.kropyva.ch/)
 
 
