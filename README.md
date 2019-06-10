@@ -63,6 +63,7 @@ Name | Language/Stack | Country |  Comments | Notable deployments
 [Newneboard](https://bitbucket.org/neko259/newneboard/src/default/) | Python + Django | 🇷🇺 | python imageboard | [Neboard](https://neboard.me/)
 [Monaba](https://gitlab.com/ahushh/Monaba) | Haskell + Yesod | 🇷🇺 | Haskell imageboard | [Haibane](https://haibane.ru/b/)
 [Kropyva](https://gitlab.com/Kropyva/engine) | Python + MySQL | 🇺🇦 | Vichan styled python imageboard | [Kropyvach](https://www.kropyva.ch/)
+[Buryak](https://github.com/the-sashko/buryak) | PHP + MySQL | 🇺🇦 | Modern imageboard engine | [Fajno](https://fajno.in/int/)
 
 
 ## Last forks of old board engines
