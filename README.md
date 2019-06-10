@@ -3,6 +3,7 @@ Overview of popular imageboard software
 
 * [Popular](#popular)
 * [Various other](#various-other)
+* [Development in foreign languages](#development-in-foreign-languages)
 * [Legacy, inactive or abandoned](#legacy-inactive-or-abandoned)
 * [Closed source](#closed-source)
 
