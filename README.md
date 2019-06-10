@@ -19,7 +19,7 @@ Name | Language/Stack | Comments | Notable deployments
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[Livechan-js](https://github.com/emgram769/livechan-js) | NodeJS + MongoDB | live IRC like image board written in node.js | [Kotchan](https://kotchan.org/chat/int)
+[Livechan-js](https://github.com/emgram769/livechan-js) | NodeJS + MongoDB | live IRC like imageboard written in NodeJS | [Kotchan](https://kotchan.org/chat/int)
 [Minichan](https://github.com/Minichan/Minichan) | PHP + MySQL | Modern textboard | [Minichan](http://minichan.org/)
 [Iyagi-bbs](https://github.com/153/iyagi-bbs) | Python + RDMBS | Simple textboard |
 [4taba](https://github.com/4taba/4taba) | Python + PgSQL | Python imageboard |
@@ -57,6 +57,9 @@ Name | Language/Stack | Country |  Comments | Notable deployments
 [Fukuro](https://github.com/twiforce/fukuro) | PHP + MySQL | 🇷🇺 | fork of Tinyboard | [Syn-Ch](https://syn-ch.com/b/)
 [Kurisaba](https://github.com/makise-homura/kurisaba) | PHP + MySQL | 🇷🇺 | fork of Kusaba | [Kurisach](https://kurisa.ch/)
 [Fbe-410](https://bitbucket.org/Therapont/fbe-410/src/master/) | PHP + MySQL | 🇷🇺 | Flower Bus Engine | [410chan](http://410chan.org/)
+[Ololord.js](https://github.com/ololoepepe/ololord.js) | NodeJS + Redis | 🇷🇺 | Javascript imageboard | [Allchan](https://allchan.su/)
+[Tumbach](https://github.com/rngnrs/tumbach) | NodeJS + Redis | 🇷🇺 | fork of ololord.js | [Tumbach](https://github.com/rngnrs/tumbach)
+[Erlach](https://github.com/m-2k/erlach) | Erlang + Websocket | 🇷🇺 | SPA Imageboad on WebSockets written on Erlang | [Erlach](https://erlach.co/)
 [Kropyva](https://gitlab.com/Kropyva/engine) | Python + MySQL | 🇺🇦 | vichan styled python imageboard | [Kropyvach](https://www.kropyva.ch/)
 
 
