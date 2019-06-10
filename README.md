@@ -51,7 +51,7 @@ Name | Language/Stack | Comments | Notable deployments
 
 ## Development in foreign languages
 Name | Language/Stack | Country |  Comments | Notable deployments
------| -------------- | ------ | --------
+-----| -------------- | -- | ------ | --------
 [Ponyach](https://github.com/acilsd/ponyach.ru) | PHP + MySQL | 🇷🇺 | kusaba styled imageboard | [Ponyach](https://ponyach.ru/b/)
 
 
