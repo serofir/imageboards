@@ -50,9 +50,9 @@ Name | Language/Stack | Comments | Notable deployments
 [PyIB](https://github.com/tslocum/PyIB) | Python + MySQL | Python imageboard | |
 
 ## Development in foreign languages
-Name | Language/Stack | Comments | Notable deployments
+Name | Language/Stack | Country | | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[Ponyach](https://github.com/acilsd/ponyach.ru) | PHP + MySQL | 🇷🇺 kusaba styled imageboard | [Ponyach](https://ponyach.ru/b/)
+[Ponyach](https://github.com/acilsd/ponyach.ru) | PHP + MySQL | 🇷🇺 | kusaba styled imageboard | [Ponyach](https://ponyach.ru/b/)
 
 
 ## Last forks of old board engines
