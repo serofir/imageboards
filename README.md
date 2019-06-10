@@ -19,6 +19,8 @@ Name | Language/Stack | Comments | Notable deployments
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[Minichan](https://github.com/Minichan/Minichan) | PHP + MySQL | Modern textboard | [Minichan](http://minichan.org/)
+[4taba](https://github.com/4taba/4taba) | Python + PgSQL | Python imageboard |
 [Cutechan](https://github.com/cutechan/cutechan) | Go + NodeJS + PgSQL | Fork of Meguca | 
 [FoolFooka](https://github.com/FoolCode/FoolFuuka) | PHP + MySQL | imageboard with front-end interface for Asagi |
 [Lapis-chan](https://github.com/karai17/lapis-chan/) | Lua + Docker | imageboard written in Lua by the Lapis web framework |
@@ -45,6 +47,12 @@ Name | Language/Stack | Comments | Notable deployments
 [Kareha-psgi](https://github.com/marlencrabapple/kareha-psgi) | Perl + RDBMS | psgi version of Kareha |
 [PyIB](https://github.com/tslocum/PyIB) | Python + MySQL | Python imageboard | |
 
+## Development in foreign languages
+Name | Language/Stack | Comments | Notable deployments
+-----| -------------- | ------ | --------
+[Taimaba](https://taimapedia.org/index.php?title=Taimaba) | Perl + MySQL | Fork of Wakaba | [420chan](http://420chan.org)
+
+
 ## Last forks of old board engines
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
@@ -55,7 +63,7 @@ Name | Language/Stack | Comments | Notable deployments
 
 
 ## Closed source
-name | language/stack | comments | notable deployments
+Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [Taimaba](https://taimapedia.org/index.php?title=Taimaba) | Perl + MySQL | Fork of Wakaba | [420chan](http://420chan.org)
 
