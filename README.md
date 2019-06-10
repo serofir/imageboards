@@ -20,6 +20,7 @@ Name | Language/Stack | Comments | Notable deployments
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [Minichan](https://github.com/Minichan/Minichan) | PHP + MySQL | Modern textboard | [Minichan](http://minichan.org/)
+[Iyagi-bbs](https://github.com/153/iyagi-bbs) | Python + RDMBS | Simple textboard |
 [4taba](https://github.com/4taba/4taba) | Python + PgSQL | Python imageboard |
 [Cutechan](https://github.com/cutechan/cutechan) | Go + NodeJS + PgSQL | Fork of Meguca | 
 [FoolFooka](https://github.com/FoolCode/FoolFuuka) | PHP + MySQL | imageboard with front-end interface for Asagi |
