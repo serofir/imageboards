@@ -52,7 +52,7 @@ Name | Language/Stack | Comments | Notable deployments
 ## Development in foreign languages
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[Taimaba](https://taimapedia.org/index.php?title=Taimaba) | Perl + MySQL | Fork of Wakaba | [420chan](http://420chan.org)
+[🇷🇺Ponyach](https://github.com/acilsd/ponyach.ru) | PHP + MySQL | kusaba styled imageboard | [Ponyach](https://ponyach.ru/b/)
 
 
 ## Last forks of old board engines
