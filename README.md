@@ -20,6 +20,7 @@ Name | Language/Stack | Comments | Notable deployments
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
+[Open-IB](https://github.com/OpenIB/OpenIB) | PHP + MySQL | fork of infinity | [8chan](http://8ch.net)
 [Livechan-js](https://github.com/emgram769/livechan-js) | NodeJS + MongoDB | live IRC like imageboard written in NodeJS | [Kotchan](https://kotchan.org/chat/int)
 [Minichan](https://github.com/Minichan/Minichan) | PHP + MySQL | Modern textboard | [Minichan](http://minichan.org/)
 [Iyagi-bbs](https://github.com/153/iyagi-bbs) | Python + RDMBS | Simple textboard |
@@ -40,7 +41,7 @@ Name | Language/Stack | Comments | Notable deployments
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
 [MiniBBS](https://github.com/whiteplastic/MiniBBS) | PHP + MySQL | simple textboard |
-[Infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
+[Infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next |
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 | [Operatorchan](https://operatorchan.org/)
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | [Merorin](https://merorin.com/jp/) 
