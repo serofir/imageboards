@@ -14,14 +14,16 @@ Markers: ☠️ = dead / closed (закрыто, сайт не открывае�
 ## Popular
 Name | Language/Stack | Comments | Notable deployments
 -----| -------------- | ------ | --------
-[LynxChan](https://gitgud.io/LynxChan/LynxChan) | NodeJS + MongoDB | All functionality exposed via JSON based RPC; actively developed | [LynxHub](http://lynxhub.com/) ☠️ dead · [Endchan](https://endchan.net/) (Kohlchan, also on LynxChan, lost its domain in 2026 ☠️)
-[jschan](https://gitgud.io/fatchan/jschan) | NodeJS + MongoDB | Actively developed; classic look, user-created boards, works without JavaScript and over Tor/I2P/Lokinet, built-in webring | [ptchan](https://ptchan.org/), [27chan](https://27chan.org/), [niuchan](https://niuchan.org/)
+[LynxChan](https://gitgud.io/LynxChan/LynxChan) | NodeJS + MongoDB | All functionality exposed via JSON based RPC; actively developed | [Official board](https://lynx.farted.net/lynx/) (lynx.farted.net) · [LynxHub](http://lynxhub.com/) ☠️ dead · [Endchan](https://endchan.net/) (Kohlchan, also on LynxChan, lost its domain in 2026 ☠️)
+[jschan](https://gitgud.io/fatchan/jschan) | NodeJS + MongoDB | Actively developed; classic look, user-created boards, works without JavaScript and over Tor/I2P/Lokinet, built-in webring | [ptchan](https://ptchan.org/), [27chan](https://27chan.org/), [niuchan](https://niuchan.org/), [heolkek](https://heolkek.cafe/), [zzzchan](https://zzzchan.xyz/), [sportschan](https://sportschan.org/)
 [Gochan](https://github.com/gochan-org/gochan) | Go + MySQL/PostgreSQL | Actively developed; imageboard server that generates static HTML, Lua plugin API | [Gochan demo](https://gochan.org/)
 [Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard. ☠️ End-of-life: repository archived on 6 Jul 2026 (*in memory of Fredrick Brennan, 1994–2026*); still the codebase of most PHP chans via its forks | [Brchan](http://www.brchan.org/)
 [NPFChan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | Fork of Vichan; no longer developed since ~2021 but still powers its boards | [Wizardchan](https://wizchan.org/), [MLPol](https://mlpol.net/)
 [Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + MySQL | Rewrite of infinity, built on the Laravel. ☠️ Archived (2023), never widely deployed |
 [TinyIB](https://code.rocketnine.space/tslocum/tinyib) | PHP + MySQL | Lightweight single-file engine, textboard mode supported; supports MySQL/PostgreSQL/SQLite. Moved from GitLab ([archived copy](https://gitlab.com/tslocum/tinyib)) to code.rocketnine.space | See [DEMOS.md](https://code.rocketnine.space/tslocum/tinyib/src/branch/master/DEMOS.md)
 [Meguca](https://github.com/bakape/meguca) | Go + NodeJS + PgSQL | Real-time features. ☠️ Rebranded as [Shamichan](https://github.com/bakape/shamichan) after 2019, both repositories archived (2023) | [Meguca](https://meguca.org/all/) ☠️ dead · [Shamichan](https://shamik.ooo/) (public instance)
+[Sriracha](https://codeberg.org/tslocum/sriracha) | Go + PostgreSQL | Imageboard and forum server by tslocum (author of TinyIB); supports plugins and custom templates; actively developed | See demo at [sriracha.rocket9labs.com](https://sriracha.rocket9labs.com/)
+[FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | Libre, self-hostable, federated imageboard platform utilizing ActivityPub | See [instance index](https://fchannel.org/instance-index.html)
 
 ## Various other
 Name | Language/Stack | Comments | Notable deployments
@@ -42,6 +44,9 @@ Name | Language/Stack | Comments | Notable deployments
 [Maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python + Docker | REST-API, still pre-alpha | [Futatsu](https://futatsu.org/)
 [µchan](https://github.com/Floens/uchan) | Python + PgSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan maintained for lainchan.org | [Lainchan](https://lainchan.org/)
+[Picoboard](https://github.com/anonim-legivon/picoboard) | Python + Django + React (Django REST Framework) | Imageboard engine. ☠️ Archived (2021), no longer developed |
+[Hexchan](https://github.com/binakot/hexchan-engine) | Python + Django | Django-based imageboard engine (MIT); original repo under hexchan org is gone, maintained copy at binakot | [Hexchan](https://hexchan.org/)
+[Double Plus](https://gitgud.io/odilitime/lynxphp) | PHP + MySQL/PostgreSQL | Modular modern imageboard, works without JS; works on shared hosting | [wrongthink](https://wrongthink.net/)
 
 ## Development in foreign languages
 Name | Language/Stack | Country |  Comments | Notable deployments
